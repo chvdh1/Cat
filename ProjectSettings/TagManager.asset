@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - enemybullet
+  - boss
+  - item
+  - box
+  - exit
+  - btstart
+  - boom
+  - weapon
+  - bufnpc
+  - invenweapon
+  - shopnpc1
+  - cat
+  - shotweapon
+  - panel
+  - mini
+  - poison
+  - def
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - playerbullet
+  - playerborder
+  - bulletborder
+  - item
+  - player
+  - box
+  - exit
+  - boom
+  - comeon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
